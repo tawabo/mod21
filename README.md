@@ -26,6 +26,25 @@ Ganache
 Metamask
 OpenZepplin
 
+<img width="936" alt="Screen Shot 2022-05-22 at 9 33 34 PM" src="https://user-images.githubusercontent.com/95396568/169708102-2e3e0143-0880-44fa-971b-5707759ddd0e.png">
+
+Initially create a constructor to mint your ERC20
+
+
+<img width="926" alt="Screen Shot 2022-05-22 at 9 33 56 PM" src="https://user-images.githubusercontent.com/95396568/169708160-91879051-4c65-4c73-9601-4b339e5059bb.png">
+
+<img width="929" alt="Screen Shot 2022-05-22 at 9 34 18 PM" src="https://user-images.githubusercontent.com/95396568/169708171-9f355a72-3c22-4e7d-bd33-c204251df6f2.png">
+<img width="931" alt="Screen Shot 2022-05-22 at 9 34 35 PM" src="https://user-images.githubusercontent.com/95396568/169708177-87a15b1c-fb34-48b9-a092-0c6fdef00aa0.png">
+
+Then write out your crowdsale
+
+at that point visit Evaluation Folder to see compiled and deployed transactions 
+
+Do Not Copy any Wallet addresses as they are testnet and sending or transacting into funds will be Loss of Funds
+
+
+
+
 
 
 
